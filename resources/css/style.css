@@ -1,0 +1,68 @@
+/*============================
+Broadway Stylesheet
+version: 1.0
+Last modified: 8/27/2017
+Author: Mitch M.
+Website: rynoth.github.io/broadway
+==============================*/
+
+body {
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
+
+#container {
+	margin: 0 auto;
+	padding: 0;
+	width: 1190px;
+}
+
+header {
+	background-image: url(../img/the-flatiron-building.png);
+}
+
+header h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.nav {
+	font-size: 18px;
+	list-style: none;
+}
+
+.nav li{
+	padding: 10px 0 0 0;
+}
+.nav a {
+	color: #fff;
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 23px;
+	font-weight: bold;
+}
+
+#title {
+	color: #fff;
+	background-image: url(../img/the-flatiron-building.png);
+}
+
+#secondaryNav {
+	background-color: dimgray;
+	text-align: left;
+}
+
+#secondaryNav span {
+	font-size: 11px;
+	color: #fff;
+}
+#secondaryNav a {
+	color: #fff;
+}
